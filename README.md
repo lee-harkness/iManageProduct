@@ -1,0 +1,2 @@
+# iManageProduct
+lightweight inventory manager
